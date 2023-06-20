@@ -1,6 +1,7 @@
 # Analytics_Plattform
 
 With this REP you can analyze the following KPI: 
+
 **Market Analysis**:
 
 - Total market capitalization
